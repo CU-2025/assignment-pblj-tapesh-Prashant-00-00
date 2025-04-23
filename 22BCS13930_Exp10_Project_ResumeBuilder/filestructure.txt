@@ -1,0 +1,25 @@
+|-- .gitignore
+|-- .mvn
+    |-- wrapper
+        |-- maven-wrapper.jar
+        |-- maven-wrapper.properties
+|-- mvnw
+|-- mvnw.cmd
+|-- pom.xml
+|-- ResumeBuilder.iml
+|-- src
+    |-- main
+        |-- java
+            |-- com
+                |-- example
+                    |-- resumebuilder
+                        |-- ResumeServlet.java
+        |-- resources
+        |-- webapp
+            |-- form.jsp
+            |-- result.jsp
+            |-- WEB-INF
+                |-- web.xml
+    |-- test
+        |-- java
+        |-- resources
